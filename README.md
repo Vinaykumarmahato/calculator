@@ -1,4 +1,4 @@
-### Calculator
+### Calculator [Check live](https://calculatoradv.netlify.app/)
 This is a simple calculator with dark mode, designed by ADV Indian Coder. The calculator provides basic arithmetic operations such as addition, subtraction, multiplication, and division. It also supports decimal numbers and includes a clear button to reset the calculation.
 
 ### Features
